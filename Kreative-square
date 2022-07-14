@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'KreativeSquareMedium';
+        src: url('/assets/fonts/kreative-square/4868a2da9773629aeaa745b109a9779c/545f6a4ebe0406f0819276b48571cf26/KreativeSquareMedium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+@font-face {
+    font-family: 'KreativeSquareSMMedium';
+        src: url('/assets/fonts/kreative-square/4868a2da9773629aeaa745b109a9779c/6c075a2e55e50b8a60cf338cd67cbd4b/KreativeSquareSMMedium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+ /* The following rules are deprecated. */ 
+
+@font-face {
+    font-family: 'Kreative Square';
+        src: url('/assets/fonts/kreative-square/4868a2da9773629aeaa745b109a9779c/545f6a4ebe0406f0819276b48571cf26/KreativeSquareMedium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+
+
+@font-face {
+    font-family: 'Kreative Square SM';
+        src: url('/assets/fonts/kreative-square/4868a2da9773629aeaa745b109a9779c/6c075a2e55e50b8a60cf338cd67cbd4b/KreativeSquareSMMedium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
